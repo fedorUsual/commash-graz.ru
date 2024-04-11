@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="172.16.2.2" id="ce738fd1-0b45-4c9f-8dce-0625200a7660" keyPath="C:\Users\Asus\Desktop\SeaInside\Коммаш-Граз\id_rsa" port="22" customName="commash-graz.ru" nameFormat="CUSTOM" username="root" useOpenSSHConfig="false">
+        <option name="customName" value="commash-graz.ru" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="85.237.47.109" id="e58aa7a2-f83a-4be5-95da-27867fbad0c7" port="22" customName="second-commash" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="second-commash" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
